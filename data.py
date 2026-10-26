@@ -24,7 +24,6 @@ class Message:
         "message": "Ingredient ids must be provided"
     }
 
-
 class TestData:
     NONEXISTENT_EMAIL = 'unknown_login_123_avadakedavra'
     NONEXISTENT_PASSWORD = 'unknown_password_123_avadakedavra'
